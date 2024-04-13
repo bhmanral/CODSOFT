@@ -1,27 +1,30 @@
 <h2 align="left">CodeSoft Intership</h2>
 
-| Screenshot for TASK 1             |
-| --------------------------------- |
-| ![Image1](./port1.png)            |
-| ![Image1](./port2.png)            |
-| ![Image1](./port3.png)            |
-| ![Image1](./port4.png)            |
-| ![Image1](./port5.png)            |
+| Screenshot for TASK 1                                               |
+| ------------------------------------------------------------------- |
+<img align="center" alt="" width="500" src="images/TASK 1/port1.png">
+<img align="center" alt="" width="500" src="images/TASK 1/port2.png">
+<img align="center" alt="" width="500" src="images/TASK 1/port3.png">
+<img align="center" alt="" width="500" src="images/TASK 1/port4.png">
+<img align="center" alt="" width="500" src="images/TASK 1/port5.png">
+
+| Screenshot for TASK 2                                               |
+| ------------------------------------------------------------------- |
+<img align="center" alt="" width="500" src="images/TASK 2/zara1.png">
+<img align="center" alt="" width="500" src="images/TASK 2/zara2.png">
+<img align="center" alt="" width="500" src="images/TASK 2/zara3.png">
+<img align="center" alt="" width="500" src="images/TASK 2/zara4.png">
+<img align="center" alt="" width="500" src="images/TASK 2/zara5.png">
+
+| Screenshot for TASK 3                                               |
+| ------------------------------------------------------------------- |
+<img align="center" alt="" width="500" src="images/TASK 3/calci.png">
+
 
 ## Technologies Used
 Javascript, HTML, CSS
 
-| Screenshot for TASK 2             |
-| --------------------------------- |
-| ![Image1](./zara1.png)            |
-| ![Image1](./zara2.png)            |
-| ![Image1](./zara3.png)            |
-| ![Image1](./zara4.png)            |
-| ![Image1](./zara5.png)            |
 
-| Screenshot for TASK 3             |
-| --------------------------------- |
-| ![Image1](./calci.png)            |
 
 ### Connect with me:
 
